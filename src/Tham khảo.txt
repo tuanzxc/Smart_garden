@@ -1,0 +1,11 @@
+Slide học trên lớp.
+Board mạch: https://wiki.seeedstudio.com/Grove_Beginner_Kit_for_Arduino/
+Cảm biến độ ẩm đất: https://wiki.seeedstudio.com/Grove-Moisture_Sensor/
+Cảm biến ánh sáng: https://wiki.seeedstudio.com/Grove-Light_Sensor/
+Cảm biến nhiệt độ: https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/
+Màn hình LCD: https://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/
+Đèn LED RGB: https://wiki.seeedstudio.com/Grove-Chainable_RGB_LED/
+Động cơ servo để đóng mở rèm: https://wiki.seeedstudio.com/Grove-Servo/
+Mạch wifi https://hshop.vn/mke-m16-blynk-gate-wifi-iot-module
+Relay: https://wiki.seeedstudio.com/Grove-Relay/
+Với slide học trên lớp.
